@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-	int n,price=0,winner_price;
+	int n,price=0,winner_price=-1;
 	string name,winner;
 	cin>>n;
 	for(int i=0;i<n;i++)
